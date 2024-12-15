@@ -16,7 +16,7 @@ adb shell am start -a android.intent.action.VIEW -d "https://play.google.com/sto
 If you're using Sauce Labs, simply run this command:
 
 ```bash
-adb shell am start -a android.intent.action.VIEW -d "https://play.google.com/store/apps/details?id=com.enflick.android.TextNow"
+am start -a android.intent.action.VIEW -d "https://play.google.com/store/apps/details?id=com.enflick.android.TextNow"
 ```
 
 ## Clear Cache for TextNow App
@@ -29,4 +29,4 @@ adb shell pm clear com.enflick.android.TextNow
 If you're using Sauce Labs, simply run this command:
 
 ```bash
-adb shell pm clear com.enflick.android.TextNow
+pm clear com.enflick.android.TextNow
