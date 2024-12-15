@@ -1,4 +1,4 @@
-# ADB Commands for TextNow App
+# ADB Commands for TextNow App Developed by [ATik HaSan](https://atikhasan.com)
 
 <p align="center">
   <img src="saucelabs-logo.png" alt="Sauce Labs Logo" width="150">
