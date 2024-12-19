@@ -30,7 +30,7 @@ If you're using Sauce Labs, simply run this command:
 
 ```bash
 pm clear com.enflick.android.TextNow
-
+```
 ## Force Stop for TextNow App
 To force-stop of the TextNow app, run the following command using `adb shell`:
 
@@ -42,3 +42,4 @@ If you're using Sauce Labs, simply run this command:
 
 ```bash
 am force-stop com.enflick.android.TextNow
+```
